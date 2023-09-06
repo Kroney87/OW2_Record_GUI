@@ -1,0 +1,22 @@
+Control,Busan,1,1,0
+Control,Ilios,0,1,0
+Control,Lijang Tower,1,2,0
+Control,Nepal,2,2,0
+Control,Oasis,0,1,0
+Escort,Circuit Royal,5,0,0
+Escort,Dorado,1,1,0
+Escort,Havana,0,0,0
+Escort,Junkertown,0,1,0
+Escort,Rialto,0,0,0
+Escort,Route 66,1,1,0
+Escort,Watchpoint Gibraltar,0,1,0
+Hybrid,Kings Row,3,1,0
+Hybrid,Blizzard World,0,0,0
+Hybrid,Eichenwalde,1,1,0
+Hybrid,Hollywood,2,3,0
+Hybrid,Midtown,1,3,0
+Hybrid,Paraiso,3,1,0
+Hybrid,Numbani,0,0,0
+Push,Colosseo,0,4,0
+Push,Esperanca,3,1,0
+Push,New Queen Street,3,0,0
